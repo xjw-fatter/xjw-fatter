@@ -9,7 +9,7 @@
     <br />
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=XJW917&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wangyang0210's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJW917&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xjw-fatter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="xjw's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjw-fatter&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 </p>
